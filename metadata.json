@@ -1,0 +1,6 @@
+{
+  "name": "E-Commerce Order Management Platform",
+  "description": "Full-stack eCommerce order management system with product catalog, cart, checkout, live shipment tracking, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

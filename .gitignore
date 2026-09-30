@@ -1,0 +1,106 @@
+# ==============================================================================
+# 1. Environment & Sensitive Credentials (CRITICAL - DO NOT COMMIT TO GIT)
+# ==============================================================================
+.env
+.env.*
+!.env.example
+*.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+application-local.properties
+application-secret.properties
+application-prod.properties
+
+# Private Keys, Certificates & Tokens
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+*.jks
+*.cer
+*.token
+*.passwd
+*.password
+id_rsa*
+id_ed25519*
+
+# Supabase Local Cache & State
+.supabase/
+supabase/.temp/
+supabase/.branches/
+
+# ==============================================================================
+# 2. Node.js & Web Build Artifacts
+# ==============================================================================
+node_modules/
+dist/
+dist-ssr/
+build/
+out/
+.next/
+.cache/
+.turbo/
+.vercel/
+
+# Logs & Debugging Output
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Test Coverage
+coverage/
+.nyc_output/
+
+# ==============================================================================
+# 3. Java & Maven Build Artifacts
+# ==============================================================================
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+.mvn/timing.properties
+
+# ==============================================================================
+# 4. IDE & Editor Files
+# ==============================================================================
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.history/
+.project
+.classpath
+.settings/
+.springBeans
+
+# ==============================================================================
+# 5. Operating System Files
+# ==============================================================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# ==============================================================================
+# 6. Temporary & Backup Files
+# ==============================================================================
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
