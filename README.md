@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6366f1,100:06b6d4&height=220&section=header&text=E-Commerce%20%26%20Order%20Management&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Enterprise-grade%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Dual%20Backend&descAlignY=58&descSize=18" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6366f1,100:06b6d4&height=220&section=header&text=Ecommerce%20Order%20Management%20Platform&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Enterprise-grade%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Dual%20Backend&descAlignY=58&descSize=18" width="100%" alt="header"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Browse+250%2B+products+in+a+blazing-fast+SPA;Secure+JWT+%2B+bcrypt+authentication;Real-time+order+tracking%3A+Placed+%E2%86%92+Shipped+%E2%86%92+Delivered;Powerful+Admin+Portal+for+global+operations;Node.js+%2B+Spring+Boot+sharing+one+database" alt="Typing SVG" />
