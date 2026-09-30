@@ -368,8 +368,9 @@ This project is built for **educational and portfolio purposes**. Product data i
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=06B6D4&center=true&vCenter=true&width=420&lines=Mahalakshmi;B.Tech+CSE+%7C+Full-Stack+%26+ML+Enthusiast" alt="author typing"/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-MahalaxmiKouchika-181717?style=for-the-badge&logo=github)](https://github.com/MahalaxmiKouchika)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-id)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mahalaxmi-kouchika-308142372
+)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahalaxmikouchika2007@gmail.com@example.com)
 
 </div>
 
